@@ -27,6 +27,7 @@
       "@services/*": ["src/services/*"],
       "@types/*": ["src/types/*"],
       "@validation/*": ["src/validation/*"],
+      "@firebase": ["src/firebase"]
     },
 
     /* Linting */

@@ -15,6 +15,7 @@ export default defineConfig({
       "@services": path.resolve(__dirname, "src/services"),
       "@types": path.resolve(__dirname, "src/types"),
       "@validation": path.resolve(__dirname, "src/validation"),
+      "@firebase": path.resolve(__dirname, "src/firebase"),
     },
   },
   plugins: [react()],
